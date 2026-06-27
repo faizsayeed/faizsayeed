@@ -4,15 +4,16 @@
   <defs>
     <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="50%" stop-color="#1f1f1f"/>
-      <stop offset="100%" stop-color="#333333"/>
+      <stop offset="30%" stop-color="#2b2b2b"/>
+      <stop offset="60%" stop-color="#4a4a4a"/>
+      <stop offset="100%" stop-color="#6b6b6b"/>
     </linearGradient>
   </defs>
   <rect width="1100" height="200" fill="url(#heroBg)"/>
-  <path d="M0,160 C150,190 350,130 550,160 C750,190 950,130 1100,160 L1100,200 L0,200 Z" fill="#4a4a4a" opacity="0.4"/>
-  <path d="M0,170 C150,200 350,140 550,170 C750,200 950,140 1100,170 L1100,200 L0,200 Z" fill="#2b2b2b" opacity="0.6"/>
+  <path d="M0,150 C90,180 180,120 270,150 C360,180 450,120 540,150 C630,180 720,120 810,150 C900,180 990,120 1080,150 L1100,150 L1100,200 L0,200 Z" fill="#1a1a1a" opacity="0.55"/>
+  <path d="M0,165 C90,195 180,135 270,165 C360,195 450,135 540,165 C630,195 720,135 810,165 C900,195 990,135 1080,165 L1100,165 L1100,200 L0,200 Z" fill="#0a0a0a" opacity="0.75"/>
   <text x="550" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Mohd Faiz Sayeed</text>
-  <text x="550" y="130" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#cfcfcf">AI &amp; Data Science · Machine Learning · Full-Stack Developer</text>
+  <text x="550" y="130" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#e8e8e8">AI &amp; Data Science · Machine Learning · Full-Stack Developer</text>
 </svg>
 
 </div>
@@ -53,7 +54,22 @@
 
 <br/><br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
+<div align="center">
+<svg width="100%" height="14" viewBox="0 0 1100 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b0b0b0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8e8e8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b0b0b0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowBlur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="4" width="1100" height="3" rx="1.5" fill="url(#glowLine)" filter="url(#glowBlur)" opacity="0.8"/>
+  <rect x="0" y="6" width="1100" height="2" rx="1" fill="url(#glowLine)"/>
+</svg>
+</div>
 
 <table width="100%">
   <tr>
@@ -101,7 +117,22 @@
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
+<div align="center">
+<svg width="100%" height="14" viewBox="0 0 1100 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b0b0b0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8e8e8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b0b0b0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowBlur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="4" width="1100" height="3" rx="1.5" fill="url(#glowLine)" filter="url(#glowBlur)" opacity="0.8"/>
+  <rect x="0" y="6" width="1100" height="2" rx="1" fill="url(#glowLine)"/>
+</svg>
+</div>
 
 <h2 align="center">TECH STACK</h2>
 
@@ -140,7 +171,22 @@
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
+<div align="center">
+<svg width="100%" height="14" viewBox="0 0 1100 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b0b0b0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8e8e8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b0b0b0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowBlur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="4" width="1100" height="3" rx="1.5" fill="url(#glowLine)" filter="url(#glowBlur)" opacity="0.8"/>
+  <rect x="0" y="6" width="1100" height="2" rx="1" fill="url(#glowLine)"/>
+</svg>
+</div>
 
 <h2 align="center">GITHUB ANALYTICS</h2>
 
@@ -167,7 +213,22 @@
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
+<div align="center">
+<svg width="100%" height="14" viewBox="0 0 1100 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b0b0b0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8e8e8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b0b0b0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowBlur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="4" width="1100" height="3" rx="1.5" fill="url(#glowLine)" filter="url(#glowBlur)" opacity="0.8"/>
+  <rect x="0" y="6" width="1100" height="2" rx="1" fill="url(#glowLine)"/>
+</svg>
+</div>
 
 <h2 align="center">LEETCODE PROGRESS</h2>
 
