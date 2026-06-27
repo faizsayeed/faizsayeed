@@ -230,39 +230,5 @@
 </svg>
 </div>
 
-<h2 align="center">LEETCODE PROGRESS</h2>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center" style="background:#161616">
-
-<br/>
-<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=161616,1f1f1f,d0d0d0,ffffff,b0b0b0,888888,707070,5a5a5a&border=0" />
-<br/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">Live stats pulled from my <a href="https://leetcode.com/u/ShaikMohdFaizSayeed/">LeetCode profile</a> — updates automatically, no action needed.</p>
-
-<br/>
-
-<div align="center">
-
-<svg width="100%" viewBox="0 0 1100 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footBg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="50%" stop-color="#333333"/>
-      <stop offset="100%" stop-color="#0a0a0a"/>
-    </linearGradient>
-  </defs>
-  <rect width="1100" height="100" fill="url(#footBg)"/>
-  <text x="550" y="48" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#cfcfcf">Thanks for stopping by — let's build something great together</text>
-  <text x="550" y="72" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#888888">faizsayeed16556@gmail.com</text>
-</svg>
 
 </div>
