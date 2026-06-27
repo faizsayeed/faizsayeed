@@ -76,22 +76,49 @@
 <tr>
 <td width="55%" valign="top">
 
-**Currently working on** — AI & Data Science projects, ML applications, and an interactive 3D portfolio.
+<table width="100%">
+<tr><td>
 
-**Open to collaborating on** — Open Source, Data Science, Machine Learning, AI, and Full-Stack projects.
+🔭&nbsp; **Currently working on**
+<br/>AI & Data Science projects, ML applications, and an interactive 3D portfolio
 
-**Looking for guidance in** — Deep Learning, MLOps, Generative AI, and LLM application development.
+</td></tr>
+<tr><td>
 
-**Currently learning** — Python, SQL, ML, Deep Learning, Data Visualization, Power BI, and Cloud for AI.
+🤝&nbsp; **Open to collaborating on**
+<br/>Open Source, Data Science, Machine Learning, AI, and Full-Stack projects
 
-**Happy to talk about** — Python, Data Science, ML, Pandas, NumPy, Data Visualization, Git/GitHub, C++.
+</td></tr>
+<tr><td>
 
-**Fun fact** — I enjoy turning raw data into meaningful insights, and love building projects that solve real-world problems. ⚡
+🙋&nbsp; **Looking for guidance in**
+<br/>Deep Learning, MLOps, Generative AI, and LLM application development
+
+</td></tr>
+<tr><td>
+
+🌱&nbsp; **Currently learning**
+<br/>Python, SQL, ML, Deep Learning, Data Visualization, Power BI, Cloud for AI
+
+</td></tr>
+<tr><td>
+
+💬&nbsp; **Happy to talk about**
+<br/>Python, Data Science, ML, Pandas, NumPy, Data Visualization, Git/GitHub, C++
+
+</td></tr>
+<tr><td>
+
+⚡&nbsp; **Fun fact**
+<br/>I enjoy turning raw data into meaningful insights, and love building projects that solve real-world problems.
+
+</td></tr>
+</table>
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/M9kdpsjBp9XCBhx0Lh/giphy.gif" width="100%" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
 
 </td>
 </tr>
