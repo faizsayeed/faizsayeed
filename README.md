@@ -22,30 +22,25 @@
     </linearGradient>
   </defs>
   <rect width="1100" height="280" fill="url(#bgGrad)"/>
-  <!-- isometric depth blocks (faux-3D stack) -->
-  <g opacity="0.55">
-    <polygon points="760,210 860,165 960,210 860,255" fill="#2b2b2b"/>
-    <polygon points="760,210 860,165 860,120 760,165" fill="#363636"/>
-    <polygon points="860,165 960,210 960,165 860,120" fill="#202020"/>
-  </g>
-  <g opacity="0.4">
-    <polygon points="900,235 970,205 1040,235 970,265" fill="#303030"/>
-    <polygon points="900,235 970,205 970,175 900,205" fill="#3c3c3c"/>
-    <polygon points="970,205 1040,235 1040,205 970,175" fill="#242424"/>
+  <!-- isometric depth blocks (faux-3D stack), tucked behind card edge -->
+  <g opacity="0.5">
+    <polygon points="900,235 960,210 1020,235 960,260" fill="#303030"/>
+    <polygon points="900,235 960,210 960,185 900,210" fill="#3c3c3c"/>
+    <polygon points="960,210 1020,235 1020,210 960,185" fill="#242424"/>
   </g>
   <!-- floating dots / particles -->
   <circle cx="120" cy="40" r="2.5" fill="#b0b0b0" opacity="0.8"/>
   <circle cx="980" cy="40" r="2" fill="#888888" opacity="0.7"/>
   <circle cx="60" cy="220" r="2" fill="#b0b0b0" opacity="0.5"/>
-  <circle cx="1040" cy="120" r="1.8" fill="#888888" opacity="0.6"/>
+  <circle cx="1040" cy="260" r="1.8" fill="#888888" opacity="0.6"/>
   <circle cx="700" cy="50" r="1.6" fill="#b0b0b0" opacity="0.5"/>
-  <!-- glass card -->
-  <rect x="60" y="60" width="650" height="160" rx="20" fill="url(#cardGrad)" stroke="#3a3a3a" stroke-width="1"/>
-  <rect x="60" y="60" width="650" height="3" rx="2" fill="url(#accent)"/>
-  <text x="92" y="120" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f0f0">Mohd Faiz Sayeed</text>
-  <text x="92" y="152" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#a8a8a8">AI &amp; Data Science · Machine Learning · Full-Stack Engineer</text>
-  <text x="92" y="184" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#787878">Building real-world ML systems &amp; interactive 3D experiences</text>
-  <rect x="92" y="196" width="10" height="10" rx="2" fill="#b0b0b0"/>
+  <!-- glass card spans full safe width to align with sections below -->
+  <rect x="40" y="50" width="1020" height="180" rx="20" fill="url(#cardGrad)" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="40" y="50" width="1020" height="3" rx="2" fill="url(#accent)"/>
+  <text x="72" y="115" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f0f0">Mohd Faiz Sayeed</text>
+  <text x="72" y="150" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#a8a8a8">AI &amp; Data Science · Machine Learning · Full-Stack Engineer</text>
+  <text x="72" y="182" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#787878">Building real-world ML systems &amp; interactive 3D experiences</text>
+  <rect x="72" y="194" width="10" height="10" rx="2" fill="#b0b0b0"/>
 </svg>
 
 <br/>
