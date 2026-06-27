@@ -1,8 +1,20 @@
 <div align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1f1f1f,60:333333,100:4a4a4a&height=200&section=header&text=Mohd%20Faiz%20Sayeed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=58&descFontSize=16&descFontColor=cfcfcf"
-  />
+
+<svg width="100%" viewBox="0 0 1100 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1f1f1f"/>
+      <stop offset="100%" stop-color="#333333"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="200" fill="url(#heroBg)"/>
+  <path d="M0,160 C150,190 350,130 550,160 C750,190 950,130 1100,160 L1100,200 L0,200 Z" fill="#4a4a4a" opacity="0.4"/>
+  <path d="M0,170 C150,200 350,140 550,170 C750,200 950,140 1100,170 L1100,200 L0,200 Z" fill="#2b2b2b" opacity="0.6"/>
+  <text x="550" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Mohd Faiz Sayeed</text>
+  <text x="550" y="130" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#cfcfcf">AI &amp; Data Science · Machine Learning · Full-Stack Developer</text>
+</svg>
+
 </div>
 
 <br/>
@@ -41,7 +53,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
 
 <table width="100%">
   <tr>
@@ -89,7 +101,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
 
 <h2 align="center">TECH STACK</h2>
 
@@ -128,7 +140,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
 
 <h2 align="center">GITHUB ANALYTICS</h2>
 
@@ -155,7 +167,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,#0a0a0a,#4a4a4a,#0a0a0a);margin:8px 0"/>
 
 <h2 align="center">LEETCODE PROGRESS</h2>
 
@@ -178,5 +190,18 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1f1f1f,60:333333,100:4a4a4a&height=120&section=footer&animation=fadeIn"/>
+
+<svg width="100%" viewBox="0 0 1100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#333333"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="100" fill="url(#footBg)"/>
+  <text x="550" y="48" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#cfcfcf">Thanks for stopping by — let's build something great together</text>
+  <text x="550" y="72" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#888888">faizsayeed16556@gmail.com</text>
+</svg>
+
 </div>
