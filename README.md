@@ -72,9 +72,30 @@
 
 ## &nbsp;🧬&nbsp; About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<svg width="100%" viewBox="0 0 1100 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aboutBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#05060f"/>
+      <stop offset="50%" stop-color="#0d0f2a"/>
+      <stop offset="100%" stop-color="#140b2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="140" fill="url(#aboutBg)"/>
+  <g opacity="0.5">
+    <polygon points="80,110 140,80 200,110 140,140" fill="#1c2148"/>
+    <polygon points="80,110 140,80 140,50 80,80" fill="#252b5c"/>
+    <polygon points="140,80 200,110 200,80 140,50" fill="#161a3a"/>
+  </g>
+  <g opacity="0.35">
+    <polygon points="900,40 960,10 1020,40 960,70" fill="#22264a"/>
+    <polygon points="900,40 960,10 960,-20 900,10" fill="#2c3262"/>
+    <polygon points="960,10 1020,40 1020,10 960,-20" fill="#181c3c"/>
+  </g>
+  <circle cx="500" cy="30" r="2" fill="#00f0ff" opacity="0.7"/>
+  <circle cx="650" cy="100" r="1.6" fill="#7b5cff" opacity="0.6"/>
+  <circle cx="300" cy="40" r="1.8" fill="#00f0ff" opacity="0.5"/>
+  <text x="550" y="78" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#6f76ad">turning raw data into real-world impact</text>
+</svg>
 
 <table width="100%">
 <tr><td>
@@ -113,15 +134,6 @@
 <br/>I enjoy turning raw data into meaningful insights, and love building projects that solve real-world problems.
 
 </td></tr>
-</table>
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
-
-</td>
-</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
