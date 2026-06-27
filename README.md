@@ -258,4 +258,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
+## &nbsp;🧩&nbsp; LeetCode Progress
+
+<table width="100%">
+<tr>
+<td align="center" style="background:#161616">
+
+<br/>
+<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=161616,1f1f1f,d0d0d0,ffffff,b0b0b0,888888,707070,5a5a5a&border=0" />
+<br/>
+
+</td>
+</tr>
+</table>
+
+> Live stats pulled from my [LeetCode profile](https://leetcode.com/u/ShaikMohdFaizSayeed/) — updates automatically, no action needed.
+
+<br/>
+
+<div align="center">
+
+<svg width="100%" viewBox="0 0 1100 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1f1f1f"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="90" fill="url(#footGrad)"/>
+  <text x="550" y="40" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#a8a8a8">Thanks for stopping by — let's build something great together</text>
+  <text x="550" y="64" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#787878">faizsayeed16556@gmail.com</text>
+</svg>
+
 </div>
