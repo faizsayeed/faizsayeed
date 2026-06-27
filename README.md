@@ -139,34 +139,47 @@
 <br/>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="20%">
-        <h4>Languages</h4>
-        <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&theme=dark&perline=3"/>
-      </td>
-      <td align="center" width="20%">
-        <h4>AI / ML / Data Science</h4>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=2"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/Power%20BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=ffffff"/>
-      </td>
-      <td align="center" width="20%">
-        <h4>Web &amp; Frameworks</h4>
-        <img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap,angular,sass&theme=dark&perline=3"/>
-      </td>
-      <td align="center" width="20%">
-        <h4>Databases</h4>
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark&perline=3"/>
-      </td>
-      <td align="center" width="20%">
-        <h4>Cloud &amp; DevOps</h4>
-        <img src="https://skillicons.dev/icons?i=docker,firebase,vercel,netlify,git,github&theme=dark&perline=3"/>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
+<img src="https://img.shields.io/badge/gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -230,5 +243,39 @@
 </svg>
 </div>
 
+<h2 align="center">LEETCODE PROGRESS</h2>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" style="background:#161616">
+
+<br/>
+<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=161616,1f1f1f,d0d0d0,ffffff,b0b0b0,888888,707070,5a5a5a&border=0" />
+<br/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">Live stats pulled from my <a href="https://leetcode.com/u/ShaikMohdFaizSayeed/">LeetCode profile</a> — updates automatically, no action needed.</p>
+
+<br/>
+
+<div align="center">
+
+<svg width="100%" viewBox="0 0 1100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#333333"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="100" fill="url(#footBg)"/>
+  <text x="550" y="48" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#cfcfcf">Thanks for stopping by — let's build something great together</text>
+  <text x="550" y="72" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#888888">faizsayeed16556@gmail.com</text>
+</svg>
 
 </div>
