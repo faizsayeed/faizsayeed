@@ -133,52 +133,75 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&theme=dark"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </td></tr>
 <tr><td>
 
 **AI / ML / Data Science**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
-<img height="48" src="https://img.shields.io/badge/Pandas-12121f?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img height="48" src="https://img.shields.io/badge/NumPy-12121f?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img height="48" src="https://img.shields.io/badge/SciPy-12121f?style=for-the-badge&logo=scipy&logoColor=8CAAE6"/>
-<img height="48" src="https://img.shields.io/badge/Matplotlib-12121f?style=for-the-badge&logo=python&logoColor=11557c"/>
-<img height="48" src="https://img.shields.io/badge/Power_BI-12121f?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </td></tr>
 <tr><td>
 
 **Web & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap,angular,sass&theme=dark"/>
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
 </td></tr>
 <tr><td>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 </td></tr>
 <tr><td>
 
 **Cloud, DevOps & Hosting**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,firebase,vercel,netlify,cloudflare,git,github&theme=dark"/>
-<img height="48" src="https://img.shields.io/badge/Render-12121f?style=for-the-badge&logo=render&logoColor=46E3B7"/>
-<img height="48" src="https://img.shields.io/badge/Linode-12121f?style=for-the-badge&logo=linode&logoColor=00A95C"/>
-<img height="48" src="https://img.shields.io/badge/Gunicorn-12121f?style=for-the-badge&logo=gunicorn&logoColor=499848"/>
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
+<img src="https://img.shields.io/badge/gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </td></tr>
 <tr><td>
 
 **Design & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,npm,vscode&theme=dark"/>
-<img height="48" src="https://img.shields.io/badge/Swagger-12121f?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
-<img height="48" src="https://img.shields.io/badge/Streamlit-12121f?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </td></tr>
 </table>
