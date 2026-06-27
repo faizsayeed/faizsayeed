@@ -8,50 +8,50 @@
 <svg width="100%" viewBox="0 0 1100 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#05060f"/>
-      <stop offset="55%" stop-color="#0b0f2a"/>
-      <stop offset="100%" stop-color="#140b2e"/>
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="55%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#1f1f1f"/>
     </linearGradient>
     <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1b1f3b" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#11142b" stop-opacity="0.9"/>
+      <stop offset="0%" stop-color="#222222" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#181818" stop-opacity="0.9"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00f0ff"/>
-      <stop offset="100%" stop-color="#7b5cff"/>
+      <stop offset="0%" stop-color="#b0b0b0"/>
+      <stop offset="100%" stop-color="#707070"/>
     </linearGradient>
   </defs>
   <rect width="1100" height="280" fill="url(#bgGrad)"/>
   <!-- isometric depth blocks (faux-3D stack) -->
   <g opacity="0.55">
-    <polygon points="760,210 860,165 960,210 860,255" fill="#1c2148"/>
-    <polygon points="760,210 860,165 860,120 760,165" fill="#252b5c"/>
-    <polygon points="860,165 960,210 960,165 860,120" fill="#161a3a"/>
+    <polygon points="760,210 860,165 960,210 860,255" fill="#2b2b2b"/>
+    <polygon points="760,210 860,165 860,120 760,165" fill="#363636"/>
+    <polygon points="860,165 960,210 960,165 860,120" fill="#202020"/>
   </g>
   <g opacity="0.4">
-    <polygon points="900,235 970,205 1040,235 970,265" fill="#22264a"/>
-    <polygon points="900,235 970,205 970,175 900,205" fill="#2c3262"/>
-    <polygon points="970,205 1040,235 1040,205 970,175" fill="#181c3c"/>
+    <polygon points="900,235 970,205 1040,235 970,265" fill="#303030"/>
+    <polygon points="900,235 970,205 970,175 900,205" fill="#3c3c3c"/>
+    <polygon points="970,205 1040,235 1040,205 970,175" fill="#242424"/>
   </g>
   <!-- floating dots / particles -->
-  <circle cx="120" cy="40" r="2.5" fill="#00f0ff" opacity="0.8"/>
-  <circle cx="980" cy="40" r="2" fill="#7b5cff" opacity="0.7"/>
-  <circle cx="60" cy="220" r="2" fill="#00f0ff" opacity="0.5"/>
-  <circle cx="1040" cy="120" r="1.8" fill="#7b5cff" opacity="0.6"/>
-  <circle cx="700" cy="50" r="1.6" fill="#00f0ff" opacity="0.5"/>
+  <circle cx="120" cy="40" r="2.5" fill="#b0b0b0" opacity="0.8"/>
+  <circle cx="980" cy="40" r="2" fill="#888888" opacity="0.7"/>
+  <circle cx="60" cy="220" r="2" fill="#b0b0b0" opacity="0.5"/>
+  <circle cx="1040" cy="120" r="1.8" fill="#888888" opacity="0.6"/>
+  <circle cx="700" cy="50" r="1.6" fill="#b0b0b0" opacity="0.5"/>
   <!-- glass card -->
-  <rect x="60" y="60" width="650" height="160" rx="20" fill="url(#cardGrad)" stroke="#2f335c" stroke-width="1"/>
+  <rect x="60" y="60" width="650" height="160" rx="20" fill="url(#cardGrad)" stroke="#3a3a3a" stroke-width="1"/>
   <rect x="60" y="60" width="650" height="3" rx="2" fill="url(#accent)"/>
-  <text x="92" y="120" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#f5f6ff">Mohd Faiz Sayeed</text>
-  <text x="92" y="152" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#9aa0d4">AI &amp; Data Science · Machine Learning · Full-Stack Engineer</text>
-  <text x="92" y="184" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#6f76ad">Building real-world ML systems &amp; interactive 3D experiences</text>
-  <rect x="92" y="196" width="10" height="10" rx="2" fill="#00f0ff"/>
+  <text x="92" y="120" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f0f0">Mohd Faiz Sayeed</text>
+  <text x="92" y="152" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#a8a8a8">AI &amp; Data Science · Machine Learning · Full-Stack Engineer</text>
+  <text x="92" y="184" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#787878">Building real-world ML systems &amp; interactive 3D experiences</text>
+  <rect x="92" y="196" width="10" height="10" rx="2" fill="#b0b0b0"/>
 </svg>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=8B7CFF&center=true&vCenter=true&width=780&height=50&lines=from+raw+data+%E2%86%92+real-world+impact;designing+ML+systems+that+actually+ship;currently+exploring+LLMs+%2B+Generative+AI;3D+interactive+portfolio%2C+always+in+progress" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=B0B0B0&center=true&vCenter=true&width=780&height=50&lines=from+raw+data+%E2%86%92+real-world+impact;designing+ML+systems+that+actually+ship;currently+exploring+LLMs+%2B+Generative+AI;3D+interactive+portfolio%2C+always+in+progress" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -62,7 +62,7 @@
 <a href="https://mastodon.social/@Mohd_Faiz_Sayeed"><img src="https://img.shields.io/badge/Mastodon-12121f?style=for-the-badge&logo=mastodon&logoColor=6364FF" /></a>
 <a href="mailto:faizsayeed16556@gmail.com"><img src="https://img.shields.io/badge/Gmail-12121f?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=faizsayeed&style=for-the-badge&color=8B7CFF&labelColor=12121f&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=faizsayeed&style=for-the-badge&color=707070&labelColor=12121f&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -77,67 +77,78 @@
 <svg width="100%" viewBox="0 0 1100 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="aboutBg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#05060f"/>
-      <stop offset="50%" stop-color="#0d0f2a"/>
-      <stop offset="100%" stop-color="#140b2e"/>
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#1f1f1f"/>
     </linearGradient>
   </defs>
   <rect width="1100" height="90" rx="14" fill="url(#aboutBg)"/>
   <g opacity="0.5">
-    <polygon points="70,70 130,42 190,70 130,98" fill="#1c2148"/>
-    <polygon points="70,70 130,42 130,14 70,42" fill="#252b5c"/>
-    <polygon points="130,42 190,70 190,42 130,14" fill="#161a3a"/>
+    <polygon points="70,70 130,42 190,70 130,98" fill="#2b2b2b"/>
+    <polygon points="70,70 130,42 130,14 70,42" fill="#363636"/>
+    <polygon points="130,42 190,70 190,42 130,14" fill="#202020"/>
   </g>
   <g opacity="0.35">
-    <polygon points="910,60 970,32 1030,60 970,88" fill="#22264a"/>
-    <polygon points="910,60 970,32 970,4 910,32" fill="#2c3262"/>
-    <polygon points="970,32 1030,60 1030,32 970,4" fill="#181c3c"/>
+    <polygon points="910,60 970,32 1030,60 970,88" fill="#303030"/>
+    <polygon points="910,60 970,32 970,4 910,32" fill="#3c3c3c"/>
+    <polygon points="970,32 1030,60 1030,32 970,4" fill="#242424"/>
   </g>
-  <circle cx="500" cy="25" r="2" fill="#00f0ff" opacity="0.7"/>
-  <circle cx="650" cy="65" r="1.6" fill="#7b5cff" opacity="0.6"/>
-  <circle cx="350" cy="30" r="1.8" fill="#00f0ff" opacity="0.5"/>
-  <text x="550" y="50" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" fill="#c9caf0">turning raw data into real-world impact</text>
+  <circle cx="500" cy="25" r="2" fill="#b0b0b0" opacity="0.7"/>
+  <circle cx="650" cy="65" r="1.6" fill="#888888" opacity="0.6"/>
+  <circle cx="350" cy="30" r="1.8" fill="#b0b0b0" opacity="0.5"/>
+  <text x="550" y="50" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" fill="#c8c8c8">turning raw data into real-world impact</text>
 </svg>
 
 <br/>
 
 <table width="100%">
-<tr><td>
-
-🔭&nbsp; **Currently working on**
-<br/>AI & Data Science projects, ML applications, and an interactive 3D portfolio
-
-</td></tr>
-<tr><td>
-
-🤝&nbsp; **Open to collaborating on**
-<br/>Open Source, Data Science, Machine Learning, AI, and Full-Stack projects
-
-</td></tr>
-<tr><td>
-
-🙋&nbsp; **Looking for guidance in**
-<br/>Deep Learning, MLOps, Generative AI, and LLM application development
-
-</td></tr>
-<tr><td>
-
-🌱&nbsp; **Currently learning**
-<br/>Python, SQL, ML, Deep Learning, Data Visualization, Power BI, Cloud for AI
-
-</td></tr>
-<tr><td>
-
-💬&nbsp; **Happy to talk about**
-<br/>Python, Data Science, ML, Pandas, NumPy, Data Visualization, Git/GitHub, C++
-
-</td></tr>
-<tr><td>
-
-⚡&nbsp; **Fun fact**
-<br/>I enjoy turning raw data into meaningful insights, and love building projects that solve real-world problems.
-
-</td></tr>
+<tr>
+<td width="56" align="center" valign="top">🔭</td>
+<td valign="top">
+<b>Currently working on</b><br/>
+<sub>AI &amp; Data Science projects, ML applications, and an interactive 3D portfolio</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="56" align="center" valign="top">🤝</td>
+<td valign="top">
+<b>Open to collaborating on</b><br/>
+<sub>Open Source, Data Science, Machine Learning, AI, and Full-Stack projects</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="56" align="center" valign="top">🙋</td>
+<td valign="top">
+<b>Looking for guidance in</b><br/>
+<sub>Deep Learning, MLOps, Generative AI, and LLM application development</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="56" align="center" valign="top">🌱</td>
+<td valign="top">
+<b>Currently learning</b><br/>
+<sub>Python, SQL, ML, Deep Learning, Data Visualization, Power BI, Cloud for AI</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="56" align="center" valign="top">💬</td>
+<td valign="top">
+<b>Happy to talk about</b><br/>
+<sub>Python, Data Science, ML, Pandas, NumPy, Data Visualization, Git/GitHub, C++</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="56" align="center" valign="top">⚡</td>
+<td valign="top">
+<b>Fun fact</b><br/>
+<sub>I enjoy turning raw data into meaningful insights, and love building projects that solve real-world problems.</sub>
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
@@ -229,18 +240,18 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=faizsayeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&icon_color=00f0ff&text_color=c9caf0&count_private=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=faizsayeed&show_icons=true&theme=graywhite,dark&hide_border=true&bg_color=161616&title_color=d0d0d0&icon_color=b0b0b0&text_color=a8a8a8&count_private=true"/>
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizsayeed&theme=tokyonight&hide_border=true&background=0d0f1f&ring=8B7CFF&fire=00f0ff&currStreakLabel=00f0ff"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizsayeed&hide_border=true&background=161616&ring=b0b0b0&fire=d0d0d0&stroke=3a3a3a&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=b0b0b0&sideLabels=a8a8a8&dates=787878"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsayeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&text_color=c9caf0"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsayeed&layout=compact&hide_border=true&bg_color=161616&title_color=d0d0d0&text_color=a8a8a8"/>
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizsayeed&theme=tokyo-night&hide_border=true&bg_color=0d0f1f&color=00f0ff&line=8B7CFF&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizsayeed&hide_border=true&bg_color=161616&color=b0b0b0&line=d0d0d0&point=ffffff&area_color=303030"/>
 </td>
 </tr>
 </table>
@@ -251,10 +262,10 @@
 
 <table width="100%">
 <tr>
-<td align="center" style="background:#0d0f1f">
+<td align="center" style="background:#161616">
 
 <br/>
-<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=0d0f1f,11142b,c9caf0,ffffff,8B7CFF,00f0ff,7b5cff,5b6099&border=0" />
+<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=161616,1f1f1f,d0d0d0,ffffff,b0b0b0,888888,707070,5a5a5a&border=0" />
 <br/>
 
 </td>
@@ -270,14 +281,14 @@
 <svg width="100%" viewBox="0 0 1100 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="footGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#05060f"/>
-      <stop offset="50%" stop-color="#140b2e"/>
-      <stop offset="100%" stop-color="#05060f"/>
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1f1f1f"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
   </defs>
   <rect width="1100" height="90" fill="url(#footGrad)"/>
-  <text x="550" y="40" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#9aa0d4">Thanks for stopping by — let's build something great together</text>
-  <text x="550" y="64" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#5b6099">faizsayeed16556@gmail.com</text>
+  <text x="550" y="40" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#a8a8a8">Thanks for stopping by — let's build something great together</text>
+  <text x="550" y="64" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#787878">faizsayeed16556@gmail.com</text>
 </svg>
 
 </div>
