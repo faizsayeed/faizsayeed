@@ -72,7 +72,9 @@
 
 ## &nbsp;🧬&nbsp; About Me
 
-<svg width="100%" viewBox="0 0 1100 140" xmlns="http://www.w3.org/2000/svg">
+<br/>
+
+<svg width="100%" viewBox="0 0 1100 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="aboutBg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#05060f"/>
@@ -80,22 +82,24 @@
       <stop offset="100%" stop-color="#140b2e"/>
     </linearGradient>
   </defs>
-  <rect width="1100" height="140" fill="url(#aboutBg)"/>
+  <rect width="1100" height="90" rx="14" fill="url(#aboutBg)"/>
   <g opacity="0.5">
-    <polygon points="80,110 140,80 200,110 140,140" fill="#1c2148"/>
-    <polygon points="80,110 140,80 140,50 80,80" fill="#252b5c"/>
-    <polygon points="140,80 200,110 200,80 140,50" fill="#161a3a"/>
+    <polygon points="70,70 130,42 190,70 130,98" fill="#1c2148"/>
+    <polygon points="70,70 130,42 130,14 70,42" fill="#252b5c"/>
+    <polygon points="130,42 190,70 190,42 130,14" fill="#161a3a"/>
   </g>
   <g opacity="0.35">
-    <polygon points="900,40 960,10 1020,40 960,70" fill="#22264a"/>
-    <polygon points="900,40 960,10 960,-20 900,10" fill="#2c3262"/>
-    <polygon points="960,10 1020,40 1020,10 960,-20" fill="#181c3c"/>
+    <polygon points="910,60 970,32 1030,60 970,88" fill="#22264a"/>
+    <polygon points="910,60 970,32 970,4 910,32" fill="#2c3262"/>
+    <polygon points="970,32 1030,60 1030,32 970,4" fill="#181c3c"/>
   </g>
-  <circle cx="500" cy="30" r="2" fill="#00f0ff" opacity="0.7"/>
-  <circle cx="650" cy="100" r="1.6" fill="#7b5cff" opacity="0.6"/>
-  <circle cx="300" cy="40" r="1.8" fill="#00f0ff" opacity="0.5"/>
-  <text x="550" y="78" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#6f76ad">turning raw data into real-world impact</text>
+  <circle cx="500" cy="25" r="2" fill="#00f0ff" opacity="0.7"/>
+  <circle cx="650" cy="65" r="1.6" fill="#7b5cff" opacity="0.6"/>
+  <circle cx="350" cy="30" r="1.8" fill="#00f0ff" opacity="0.5"/>
+  <text x="550" y="50" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" fill="#c9caf0">turning raw data into real-world impact</text>
 </svg>
+
+<br/>
 
 <table width="100%">
 <tr><td>
@@ -224,18 +228,18 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=faizsayeed&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&icon_color=00f0ff&text_color=c9caf0&count_private=true"/>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=faizsayeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&icon_color=00f0ff&text_color=c9caf0&count_private=true"/>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizsayeed&theme=tokyonight&hide_border=true&background=0d0f1f&ring=8B7CFF&fire=00f0ff&currStreakLabel=00f0ff"/>
 </td>
 </tr>
 <tr>
-<td width="40%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsayeed&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&text_color=c9caf0"/>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsayeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1f&title_color=8B7CFF&text_color=c9caf0"/>
 </td>
-<td width="60%">
+<td width="50%" valign="top">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizsayeed&theme=tokyo-night&hide_border=true&bg_color=0d0f1f&color=00f0ff&line=8B7CFF&point=ffffff"/>
 </td>
 </tr>
@@ -245,27 +249,19 @@
 
 ## &nbsp;🧩&nbsp; LeetCode Progress
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</div>
+<table width="100%">
+<tr>
+<td align="center" style="background:#0d0f1f">
+
+<br/>
+<img src="https://leetcard.jacoblin.cool/ShaikMohdFaizSayeed?theme=dark&font=JetBrains%20Mono&ext=heatmap&colors=0d0f1f,11142b,c9caf0,ffffff,8B7CFF,00f0ff,7b5cff,5b6099&border=0" />
+<br/>
+
+</td>
+</tr>
+</table>
 
 > Live stats pulled from my [LeetCode profile](https://leetcode.com/u/ShaikMohdFaizSayeed/) — updates automatically, no action needed.
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## &nbsp;🏆&nbsp; Trophy Room
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faizsayeed&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## &nbsp;🔝&nbsp; Top Contributions
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=faizsayeed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
 
 <br/>
 
