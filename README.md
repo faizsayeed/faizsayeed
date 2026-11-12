@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:252525,100:555555&height=220&section=header&text=Mohd%20Faiz%20Sayeed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=16&animation=fadeIn" alt="Mohd Faiz Sayeed banner"/>
+<img src="./banner.svg" width="100%" alt="Mohd Faiz Sayeed banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=B8B8B8&center=true&vCenter=true&width=850&height=55&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+%7C+Deep+Learning;Turning+Data+Into+Meaningful+Insights;Building+Real-World+AI+Applications;Learning.+Building.+Improving." alt="Typing animation"/>
 
@@ -28,7 +28,7 @@
 <tr>
 <td valign="middle" align="center">
 
-<img src="./assets/faiz-matrix.gif" width="260" alt="Faiz - binary matrix animation"/>
+<img src="./faiz-matrix.gif" width="260" alt="Faiz - binary matrix animation"/>
 
 </td>
 <td valign="middle">
@@ -307,6 +307,6 @@ If you're building something interesting, **let's connect and build it together.
 ### ⭐ If you find my work interesting, consider following me!
 ### **Thanks for visiting my profile! 👋**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:252525,100:0f0f0f&height=120&section=footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
 
 </div>
