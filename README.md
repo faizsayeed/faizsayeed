@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -24,13 +24,17 @@
 
 <table width="100%">
 <tr>
-<td width="300" align="center" valign="top">
+<td width="320" align="center" valign="top">
 
-<img src="./faiz-matrix.gif" width="280" alt="Faiz - binary matrix animation"/>
+<img src="./faiz-matrix.gif" width="300" alt="Faiz - animated binary portrait"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=faizsayeed&style=flat-square&color=555555&labelColor=111111&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="./status.svg" width="260" alt="Open to collaborate"/>
 
 </td>
 <td align="left" valign="top">
@@ -41,17 +45,17 @@
 
 > From raw data → model → application → real-world impact.
 
-| ⚡ Quick Facts | |
-| :-- | :-- |
-| 🎓 **Education** | B.Tech CSE (Data Science) · NMIMS · 2nd Year |
-| 📍 **Location** | Telangana, India |
-| 🎯 **Focus** | AI · Machine Learning · Data Science · Full-Stack |
-| 🛠️ **Core Stack** | Python · SQL · C++ · Pandas · NumPy · Scikit-Learn |
-| 🌱 **Learning** | Deep Learning · Generative AI · LLM Apps · MLOps · Cloud |
-| 🤝 **Open To** | Open Source · Hackathons · AI & Data Projects · Collaborations |
-| 💬 **Ask Me About** | Python · C++ · Data Science · Git & GitHub · Problem Solving |
+<table width="100%">
+<tr><td width="150">🎓 <b>Education</b></td><td>B.Tech CSE (Data Science) · NMIMS · 2nd Year</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Telangana, India</td></tr>
+<tr><td>🎯 <b>Focus</b></td><td>AI · Machine Learning · Data Science · Full-Stack</td></tr>
+<tr><td>🛠️ <b>Core Stack</b></td><td>Python · SQL · C++ · Pandas · NumPy · Scikit-Learn</td></tr>
+<tr><td>🌱 <b>Learning</b></td><td>Deep Learning · Generative AI · LLM Apps · MLOps · Cloud</td></tr>
+<tr><td>🤝 <b>Open To</b></td><td>Open Source · Hackathons · AI & Data Projects</td></tr>
+<tr><td>💬 <b>Ask Me About</b></td><td>Python · C++ · Data Science · Git & GitHub</td></tr>
+</table>
 
-`faiz@github:~$ learn --build --improve --repeat`
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flask,react,mysql,git" alt="Tech icons"/>
 
@@ -59,7 +63,19 @@
 </tr>
 </table>
 
----
+<br/>
+
+<div align="center">
+
+<img src="./terminal.svg" width="100%" alt="Animated terminal"/>
+
+<br/><br/>
+
+<img src="./ticker.svg" width="100%" alt="Scrolling tech stack"/>
+
+</div>
+
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 👋 Hello, I'm Faiz
 
@@ -77,7 +93,7 @@ Right now I'm strengthening my foundations in **Python, SQL, Machine Learning, D
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🚀 What I'm Currently Building
 
@@ -109,7 +125,7 @@ Interactive applications that connect modern frontends with powerful backends.
 </table>
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -126,7 +142,7 @@ Interactive applications that connect modern frontends with powerful backends.
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -195,7 +211,7 @@ Interactive applications that connect modern frontends with powerful backends.
 
 > 💡 More projects are being built and will be added here as they become production-ready.
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Analytics
 
@@ -214,7 +230,7 @@ Interactive applications that connect modern frontends with powerful backends.
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🧩 My Development Philosophy
 
@@ -226,7 +242,7 @@ Interactive applications that connect modern frontends with powerful backends.
 
 I believe the fastest way to improve as a developer is to **build things slightly beyond your current skill level**. My goal isn't just to learn technologies, but to understand **why and how they work, and where they solve real problems.**
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🎯 2026 Goals
 
@@ -242,7 +258,7 @@ I believe the fastest way to improve as a developer is to **build things slightl
 - [ ] Improve competitive programming
 - [ ] Build a strong portfolio of real-world projects
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Collaborate
 
@@ -256,7 +272,7 @@ Full-Stack Development   |  Open Source       |  Hackathons
 
 If you're building something interesting, **let's connect and build it together.**
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 📫 Connect With Me
 
