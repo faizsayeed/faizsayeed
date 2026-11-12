@@ -12,10 +12,6 @@
 <a href="https://mastodon.social/@Mohd_Faiz_Sayeed"><img src="https://img.shields.io/badge/Mastodon-161616?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="mailto:faizsayeed16556@gmail.com"><img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=faizsayeed&style=for-the-badge&color=555555&labelColor=111111&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
@@ -24,44 +20,50 @@
 
 ## `> ./whoami`
 
-<table>
-<tr>
-<td valign="middle" align="center">
+</div>
 
-<img src="./faiz-matrix.gif" width="260" alt="Faiz - binary matrix animation"/>
+<table width="100%">
+<tr>
+<td width="300" align="center" valign="top">
+
+<img src="./faiz-matrix.gif" width="280" alt="Faiz - binary matrix animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=faizsayeed&style=flat-square&color=555555&labelColor=111111&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </td>
-<td valign="middle">
+<td align="left" valign="top">
 
-```text
-faiz@github:~$ cat about.txt
+### Mohd Faiz Sayeed
 
-name     : Mohd Faiz Sayeed
-role     : B.Tech CSE (Data Science)
-college  : NMIMS, 2nd Year
-location : Telangana, India
-focus    : AI | ML | Data Science
-           Full-Stack Development
-status   : Learning. Building.
-           Improving.
+**AI & Data Science Enthusiast · Builder**
 
-faiz@github:~$ _
-```
+> From raw data → model → application → real-world impact.
+
+| ⚡ Quick Facts | |
+| :-- | :-- |
+| 🎓 **Education** | B.Tech CSE (Data Science) · NMIMS · 2nd Year |
+| 📍 **Location** | Telangana, India |
+| 🎯 **Focus** | AI · Machine Learning · Data Science · Full-Stack |
+| 🛠️ **Core Stack** | Python · SQL · C++ · Pandas · NumPy · Scikit-Learn |
+| 🌱 **Learning** | Deep Learning · Generative AI · LLM Apps · MLOps · Cloud |
+| 🤝 **Open To** | Open Source · Hackathons · AI & Data Projects · Collaborations |
+| 💬 **Ask Me About** | Python · C++ · Data Science · Git & GitHub · Problem Solving |
+
+`faiz@github:~$ learn --build --improve --repeat`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flask,react,mysql,git" alt="Tech icons"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 👋 Hello, I'm Faiz
 
-> **B.Tech CSE (Data Science) @ NMIMS** · 2nd Year · AI & Data Science Enthusiast · Builder
-
 I'm passionate about **Artificial Intelligence, Data Science, Machine Learning and Full-Stack Development**.
-I enjoy taking an idea from **raw data → model → application → real-world impact**.
 
 Right now I'm strengthening my foundations in **Python, SQL, Machine Learning, Deep Learning, Data Visualization and Cloud**, while building practical projects along the way.
 
@@ -106,42 +108,6 @@ Interactive applications that connect modern frontends with powerful backends.
 </tr>
 </table>
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-
-- Python & SQL
-- Machine Learning & Deep Learning
-- Data Visualization & Power BI
-- Cloud Computing
-- Generative AI & LLM Applications
-- MLOps
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Open To
-
-- Open Source
-- AI / Data Science / ML Projects
-- Full-Stack Development
-- Hackathons
-- Technical Collaborations
-
-### 💬 Ask Me About
-
-Python · C++ · Pandas · NumPy · Data Visualization · Git & GitHub · Problem Solving
-
-</td>
-</tr>
-</table>
 
 ---
 
